@@ -12,3 +12,4 @@
 #!.yarn/cache
 .pnp.*
 *wallet.json
+node_modules/
